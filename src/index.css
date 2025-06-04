@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-family-display: "Inter", "system-ui", "Avenir", "Helvetica", "Arial", sans-serif;
+  --color-primary-50: #eff6ff;
+  --color-primary-100: #dbeafe;
+  --color-primary-500: #3b82f6;
+  --color-primary-600: #2563eb;
+  --color-primary-700: #1d4ed8;
+  --color-hvac-blue: #1e40af;
+  --color-hvac-gray: #64748b;
+  --color-hvac-light: #f8fafc;
+}

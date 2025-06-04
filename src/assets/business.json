@@ -1,0 +1,137 @@
+{
+  "name": "CallTech",
+  "tagline": "Mechanical, Electrical, HVAC/R & Restaurant Equipment Services",
+  "contact": {
+    "phone": "(615) 955-5505",
+    "email": "monitorcalltech@gmail.com",
+    "website": "www.calltech.com"
+  },
+  "location": {
+    "address": "2215 E Main St",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37130",
+    "serviceArea": "Murfreesboro and nearby areas"
+  },
+  "services": [
+    {
+      "id": 1,
+      "name": "AC Installation",
+      "description": "Professional air conditioning system installation with energy-efficient units",
+      "icon": "❄️",
+      "features": ["Energy Efficient", "Professional Installation", "Warranty Included"]
+    },
+    {
+      "id": 2,
+      "name": "Heating Repair",
+      "description": "Expert heating system repair and maintenance for all major brands",
+      "icon": "🔥",
+      "features": ["24/7 Emergency Service", "All Brands", "Licensed Technicians"]
+    },
+    {
+      "id": 3,
+      "name": "HVAC Maintenance",
+      "description": "Regular maintenance to keep your system running efficiently year-round",
+      "icon": "🔧",
+      "features": ["Preventive Care", "Cost Savings", "Extended Lifespan"]
+    },
+    {
+      "id": 4,
+      "name": "Duct Cleaning",
+      "description": "Professional duct cleaning to improve air quality and system efficiency",
+      "icon": "🌪️",
+      "features": ["Improved Air Quality", "Better Efficiency", "Health Benefits"]
+    },
+    {
+      "id": 5,
+      "name": "Smart Thermostats",
+      "description": "Installation and setup of smart thermostats for optimal comfort and savings",
+      "icon": "📱",
+      "features": ["Remote Control", "Energy Savings", "Smart Scheduling"]
+    },
+    {
+      "id": 6,
+      "name": "Emergency Service",
+      "description": "24/7 emergency HVAC repair service when you need it most",
+      "icon": "🚨",
+      "features": ["24/7 Availability", "Rapid Response", "Emergency Repairs"]
+    },
+    {
+      "id": 7,
+      "name": "Electrical Services",
+      "description": "Professional electrical installation, repair, and maintenance services",
+      "icon": "⚡",
+      "features": ["Licensed Electricians", "Code Compliance", "Safety First"]
+    },
+    {
+      "id": 8,
+      "name": "Restaurant Equipment",
+      "description": "Commercial kitchen equipment service, repair, and maintenance",
+      "icon": "🍽️",
+      "features": ["Commercial Grade", "Food Service Expertise", "Quick Turnaround"]
+    }
+  ],
+  "timing": {
+    "hours": "Open 24 hours",
+    "emergency": "24/7 Emergency Service Available"
+  },
+  "reviews": [
+    {
+      "id": 1,
+      "customer": "Dr. James C Ward, Jr",
+      "text": "Yahya came to the house and worked from sun up to sun down. He took pictures of the problem to help me understand the issue. His price was great and workmanship was too. I highly recommend this person and business. I will continue to use this business because he is trustworthy.",
+      "rating": 5,
+      "date": "2024-05-15",
+      "service": "HVAC Repair"
+    },
+    {
+      "id": 2,
+      "customer": "TN 615",
+      "text": "Put your mind at ease!! Excellent service. Expectations are set correctly on the front end. Service and repairs are exceptional!!! I highly recommend CallTech. Old fashioned customer service with top notch delivery of service.",
+      "rating": 5,
+      "date": "2024-10-15",
+      "service": "HVAC Service"
+    },
+    {
+      "id": 3,
+      "customer": "Lisa Adams",
+      "text": "Our heat went out Christmas eve. We called several companies. They were booked up. Luckily I found this place! The owner Yahya responded immediately! He was very thorough, professional and reasonably priced! I will definitely be using him again for all my heating/AC needs! I Highly recommend him!!",
+      "rating": 5,
+      "date": "2022-12-24",
+      "service": "Emergency Heating Repair"
+    },
+    {
+      "id": 4,
+      "customer": "A Chaney",
+      "text": "CallTech installed my electric and an AC unit in my food truck. They did a fantastic job! I would highly recommend them! Yahya is very knowledgeable, professional, and hard working. His services are worth every penny.",
+      "rating": 5,
+      "date": "2023-11-20",
+      "service": "Commercial Installation"
+    },
+    {
+      "id": 5,
+      "customer": "Jose Cruz",
+      "text": "Great prices and integrity. I was referred to this company by a friend. Yahya showed up and looked at my unit right after I called him. He arrived on time with all of his equipment ready to work. He gave me an excellent price (a fraction of what bigger companies quoted me.)",
+      "rating": 5,
+      "date": "2021-08-10",
+      "service": "AC Repair"
+    }
+  ],
+  "about": {
+    "vision": "To be the leading HVAC service provider in Tennessee, known for exceptional quality, reliability, and customer satisfaction in every project we undertake.",
+    "mission": "Providing comprehensive HVAC solutions with integrity, professionalism, and cutting-edge technology to ensure optimal comfort for our clients.",
+    "motto": "Excellence in service, reliability in performance, and dedication to customer satisfaction - that's the CallTech promise to every client.",
+    "description": "CallTech Company LLC is a Mechanical, Electrical, HVAC/R, and Restaurant Equipment service company located in Murfreesboro, Tennessee. They pride themselves on being local home service experts with huge experience as well as providing care and expertise that will leave their customers satisfied."
+  },
+  "certifications": [
+    "EPA Certified",
+    "NATE Certified",
+    "Licensed & Insured",
+    "BBB A+ Rating"
+  ],
+  "socialMedia": {
+    "facebook": "https://facebook.com/cooltechhvac",
+    "instagram": "https://instagram.com/cooltechhvac",
+    "twitter": "https://twitter.com/cooltechhvac"
+  }
+}
