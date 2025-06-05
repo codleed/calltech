@@ -1,7 +1,7 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
 import { Button } from 'antd'
-import { PhoneOutlined, MailOutlined, EnvironmentOutlined, FacebookOutlined, InstagramOutlined, TwitterOutlined } from '@ant-design/icons'
+import { PhoneOutlined, MailOutlined, EnvironmentOutlined} from '@ant-design/icons'
 import { motion } from 'framer-motion'
 import logo from '../assets/images/logo.png'
 
@@ -143,43 +143,6 @@ const Footer = () => {
                   <p className="text-sm text-gray-400">Service Area</p>
                   <p className="text-white">{businessInfo.location.serviceArea}</p>
                 </div>
-              </div>
-            </div>
-
-            {/* Social Media */}
-            <div className="pt-4">
-              <h4 className="text-sm font-semibold mb-3">Follow Us</h4>
-              <div className="flex space-x-3">
-                <motion.a
-                  whileHover={{ scale: 1.1 }}
-                  whileTap={{ scale: 0.9 }}
-                  href={businessInfo.socialMedia.facebook}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-8 h-8 bg-hvac-blue rounded-full flex items-center justify-center hover:bg-primary-700 transition-colors duration-300"
-                >
-                  <FacebookOutlined className="text-white text-sm" />
-                </motion.a>
-                <motion.a
-                  whileHover={{ scale: 1.1 }}
-                  whileTap={{ scale: 0.9 }}
-                  href={businessInfo.socialMedia.instagram}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-8 h-8 bg-hvac-blue rounded-full flex items-center justify-center hover:bg-primary-700 transition-colors duration-300"
-                >
-                  <InstagramOutlined className="text-white text-sm" />
-                </motion.a>
-                <motion.a
-                  whileHover={{ scale: 1.1 }}
-                  whileTap={{ scale: 0.9 }}
-                  href={businessInfo.socialMedia.twitter}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-8 h-8 bg-hvac-blue rounded-full flex items-center justify-center hover:bg-primary-700 transition-colors duration-300"
-                >
-                  <TwitterOutlined className="text-white text-sm" />
-                </motion.a>
               </div>
             </div>
           </motion.div>
